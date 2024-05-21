@@ -9,6 +9,10 @@
 
 ![](./images/WeChat-QRCode.png)
 
+### [#004 - 用 SQLite 构建一个高可用的搜索引擎（2024.05.22）](./004%20-%202024.05.22.md)
+
+> Borgo - Rust & Go 编程语言；vlang - 系统编程语言；GoReleaser - Go项目的发布自动化工具；River - 高性能作业处理（Job Processing）系统；lazydocker - 一个基于 Docker 的开源容器管理工具；fzf - 命令行文件查看器；如何利用 SQLite 构建一个高可用的搜索引擎？如何从零开始实现一个 DNS 协议解析器？
+
 ### [#003 - Go vs Rust：下一个项目，应该怎么选？（2024.05.14）](./003%20-%202024.05.14.md)
 
 > Go 易错点 100 例；Go 与 Rust：未来的软件开发大比拼；Nunu - 一个基于 Go/Gin 的应用脚手架；Gost - 一个用 GO 语言实现的安全隧道；Gotenberg - 基于 Docker 的无状态 PDF 创建服务；Crawlab - 一款开源、强悍的分布式爬虫管理平台
