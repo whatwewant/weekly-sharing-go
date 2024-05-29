@@ -9,6 +9,10 @@
 
 ![](./images/WeChat-QRCode.png)
 
+### [#005 - 如何设计一个优秀的 Go Web 项目目录结构（2024.05.29）](./005%20-%202024.05.29.md)
+
+> logdy - 在浏览器中查看终端日志；ants - 一个高性能且低损耗的 goroutine 池；tinymath - 快速高效的数学运算库，适用于 WebAssembly 场景；go-quartz - 零依赖计划任务库；如何设计一个优秀的 Go Web 项目目录结构
+
 ### [#004 - 用 SQLite 构建一个高可用的搜索引擎（2024.05.22）](./004%20-%202024.05.22.md)
 
 > Borgo - Rust & Go 编程语言；vlang - 系统编程语言；GoReleaser - Go项目的发布自动化工具；River - 高性能作业处理（Job Processing）系统；lazydocker - 一个基于 Docker 的开源容器管理工具；fzf - 命令行文件查看器；如何利用 SQLite 构建一个高可用的搜索引擎？如何从零开始实现一个 DNS 协议解析器？
